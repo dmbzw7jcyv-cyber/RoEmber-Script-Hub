@@ -1,0 +1,1 @@
+#scripts thaat work in every game
